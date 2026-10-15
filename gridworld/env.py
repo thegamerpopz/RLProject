@@ -1,9 +1,6 @@
 import numpy as np
 SEED=31121
-ROLES = ("LETHAL", "REWARD", "GOAL", "NEUTRAL")
-COLORS = ("RED", "GREEN", "BLUE", "YELLOW", "PURPLE")
-ACTIONS = ("UP", "DOWN", "LEFT", "RIGHT")
-DIRECTIONS=((-1,0),(1,0),(0,-1),(0,1))
+from constants import *
 COLOR_CODE = {c: 3 + i for i, c in enumerate(COLORS)}  # RED=3 GREEN=4 BLUE=5 YELLOW=6 PURPLE=7
 CODE_TO_COLOR = {v: k for k, v in COLOR_CODE.items()}
 
