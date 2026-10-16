@@ -30,7 +30,7 @@ class Explorer:
   return dist
 
  def shortest_path(self, grid, obs, start, colors):
-  # group every object of color together as a target
+  # group every object ofx` color together as a target
   codes = [COLOR_CODE[color] for color in colors]
   targets = []
   for row in range(len(obs)):

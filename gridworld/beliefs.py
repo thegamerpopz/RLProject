@@ -31,7 +31,7 @@ class Beliefs:
 
  def posterior(self, color: str) -> dict[str, float]:
   return dict(self.probs[color])
- def best_guess(self) - > dict[str, tuple[str, float]]:
+ def best_guess(self) -> dict[str, tuple[str, float]]:
   guesses = {}
   for c in self.colors:
    best_role=None
@@ -41,16 +41,17 @@ class Beliefs:
      best_role = r
      best_prob = self.probs[c][r]
     guesses[c] = (best_role, best_prob)
-   return guesses
-b = Beliefs()
-b.update(color="BLUE",observed="nothing")
-print(b.posterior("BLUE"))
-b.update(color="BLUE",observed="nothing")
-print(b.posterior("BLUE"))
+  return guesses
+if __name__ == "__main__":
+    b = Beliefs()
+    b.update(color="BLUE",observed="nothing")
+    print(b.posterior("BLUE"))
+    b.update(color="BLUE",observed="nothing")
+    print(b.posterior("BLUE"))
 
-b = Beliefs()
-b.update(color="RED", observed="death")
-print(b.posterior("RED"))
-b.update(color="RED", observed="death")
-print(b.posterior("RED"))
+    b = Beliefs()
+    b.update(color="RED", observed="death")
+    print(b.posterior("RED"))
+    b.update(color="RED", observed="death")
+    print(b.posterior("RED"))
 

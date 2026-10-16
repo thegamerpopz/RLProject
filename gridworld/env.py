@@ -144,8 +144,9 @@ class GridWorld:
             events.append({"type": "episode_end", "step": self.steps, "outcome": outcome})
         return self._obs(), reward, self.done, {"events": events}
 
-    def render(self, level) -> str:
+    def render(self) -> str:
         lines = []
+        level=self._obs()
         for i in range(7):
             row = ""
             for j in range(7):
