@@ -1,6 +1,6 @@
 import numpy as np
 SEED=31121
-from constants import *
+from .constants import ACTIONS, COLORS, DIRECTIONS
 COLOR_CODE = {c: 3 + i for i, c in enumerate(COLORS)}  # RED=3 GREEN=4 BLUE=5 YELLOW=6 PURPLE=7
 CODE_TO_COLOR = {v: k for k, v in COLOR_CODE.items()}
 
@@ -37,14 +37,14 @@ class GridWorld:
                 visited.add((nr, nc))
                 queue.append((nr, nc))
         return False
-    def __init__(self,size=7,game_seed=SEED, objects_per_color=(1, 3),
+    def __init__(self,roles,size=7, objects_per_color=(1, 3),
  p_effect=0.85, p_accident=0.05, max_steps=50):
         self.size=size
         self.objects_per_color=objects_per_color
         self.p_effect=p_effect
         self.p_accident=p_accident
         self.max_steps=max_steps
-        self.maps=new_game(game_seed)
+        self.maps=dict(roles)
         self.steps = 0
         self.done = True
         self.avatar = None
@@ -64,7 +64,8 @@ class GridWorld:
             n=self.size
             level=np.ones((n,n), dtype=int)
             grid = np.zeros((n - 2, n - 2), dtype=int)
-            no_of_objects= np.random.randint(1, 4, size=5)
+            low, high = self.objects_per_color
+            no_of_objects= np.random.randint(low, high + 1, size=len(COLORS))
             total_objects= np.sum(no_of_objects)
             positions = np.random.choice(grid.size, size=total_objects + 1, replace=False)
             positions = np.column_stack(np.unravel_index(positions, grid.shape))
@@ -147,9 +148,9 @@ class GridWorld:
     def render(self) -> str:
         lines = []
         level=self._obs()
-        for i in range(7):
+        for i in range(self.size):
             row = ""
-            for j in range(7):
+            for j in range(self.size):
                 if level[i][j] == 0:
                     row += "."
                 if level[i][j] == 1:
@@ -169,6 +170,7 @@ class GridWorld:
             lines.append(row)
         return "\n".join(lines)
 
-a=GridWorld()
-b=a.reset(seed=SEED)
-print(a.render(level=b))
+if __name__ == "__main__":
+    a=GridWorld(new_game(SEED))
+    a.reset(seed=SEED)
+    print(a.render())

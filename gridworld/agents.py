@@ -1,7 +1,7 @@
 import numpy as np
-from env import COLOR_CODE
-from beliefs import Beliefs
-from constants import *
+from .env import COLOR_CODE
+from .beliefs import Beliefs
+from .constants import ACTIONS, COLORS, DIRECTIONS
 class Explorer:
  def __init__(self, beliefs: Beliefs, rng: np.random.Generator,
  danger_threshold=0.5):
@@ -30,7 +30,7 @@ class Explorer:
   return dist
 
  def shortest_path(self, grid, obs, start, colors):
-  # group every object ofx` color together as a target
+  # group every object of a color together as a target
   codes = [COLOR_CODE[color] for color in colors]
   targets = []
   for row in range(len(obs)):
@@ -39,11 +39,11 @@ class Explorer:
      targets.append((row, col))
   #min distance of a target from start
   dist = self._distances(grid, start)
-  nearest_dist = -1
+  nearest_dist = float("inf")
   for t in targets:
    if dist[t] > 0 and (dist[t] < nearest_dist):
     nearest_dist = dist[t]
-  if nearest_dist is -1:
+  if nearest_dist == float("inf"):
    return None
   nearest_points = [t for t in targets if dist[t] == nearest_dist]
   target = self._pick(nearest_points)
@@ -60,18 +60,19 @@ class Explorer:
 
  def act(self, obs: np.ndarray) -> str:
   avatar_pos=np.argwhere(obs == 2)
-  start = (int(avatar_pos[0]), int(avatar_pos[1]))
+  start = (int(avatar_pos[0, 0]), int(avatar_pos[0, 1]))
   grid=obs.copy()
   guess=self.beliefs.best_guess()
   dangerous=[]
   goal=[]
   uncertain=[]
   for c in COLORS:
-   if guess[c][0]=="LETHAL" and guess[c][1] >= self.danger_threshold:
+   posterior = self.beliefs.posterior(c)
+   if posterior["LETHAL"] >= self.danger_threshold:
     dangerous.append(c)
-   if guess[c][0] == "GOAL" and guess[c][1] >= 0.5:
+   if posterior["GOAL"] >= 0.5:
      goal.append(c)
-   if guess[c][1] < 0.95:  # largest role probability still low
+   if guess[c][1] < 0.95 and c not in dangerous:
      uncertain.append(c)
   for c in dangerous:
    color_num=COLOR_CODE[c]
@@ -87,11 +88,11 @@ class Explorer:
   danger_codes = [COLOR_CODE[c] for c in dangerous]
   options = []
   for i,direction in enumerate(DIRECTIONS):
-   row = start[0] + direction[i][0]
-   column = start[1] + direction[i][1]
+   row = start[0] + direction[0]
+   column = start[1] + direction[1]
    if obs[row, column] not in danger_codes:
     options.append(ACTIONS[i])
-  return self._pick(options)
+  return self._pick(options or ACTIONS)
 
 
  def observe(self, events: list[dict]) -> None:

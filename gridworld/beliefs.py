@@ -1,4 +1,4 @@
-from constants import *
+from .constants import COLORS, ROLES
 class Beliefs:
  def __init__(self, colors=COLORS, p_effect=0.85, p_accident=0.05, prior=None):
   self.colors = tuple(colors)
@@ -54,4 +54,3 @@ if __name__ == "__main__":
     print(b.posterior("RED"))
     b.update(color="RED", observed="death")
     print(b.posterior("RED"))
-

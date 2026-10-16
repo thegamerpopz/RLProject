@@ -1,5 +1,5 @@
-from constants import ROLES,COLORS
-from beliefs import Beliefs
+from .constants import ROLES,COLORS
+from .beliefs import Beliefs
 LITERAL_CONFIDENCE=0.99
 TEMPLATES = {
     "LETHAL": "Touching {color} kills you ({pct}% sure)",
@@ -22,7 +22,7 @@ def advice_to_text(advice: list[dict]) -> str:
         return "No advice."
     lines = []
     for s in advice:
-        pct = f"{100 * s["confidence"]:.0f}"
+        pct = f"{100 * s['confidence']:.0f}"
         lines.append(TEMPLATES[s["role"]].format(color=s["color"], pct=pct))
     return "\n".join(lines)
 def beliefs_from_advice(advice, p_effect=0.85, p_accident=0.05, cap=0.99,
