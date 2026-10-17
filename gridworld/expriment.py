@@ -9,7 +9,7 @@ def run_episodes(world, explorer, level_seeds, metadata):
         done = False
         while not done:
             obs, _, done, info = world.step(explorer.act(obs))
-            explorer.observe(info["events"])
+            explorer.observe(info["events"]) # this updates the beliefs
             for event in info["events"]:
                 events.append({**metadata, "episode": episode, **event})
         outcomes.append(info["events"][-1]["outcome"])
