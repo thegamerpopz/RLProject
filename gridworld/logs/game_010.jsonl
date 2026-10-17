@@ -1,0 +1,450 @@
+{"game": 10, "condition": "advisor", "budget": 1, "agent": "advisor", "learner_type": "none", "episode": 1, "type": "contact", "step": 1, "color": "RED", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "advisor", "budget": 1, "agent": "advisor", "learner_type": "none", "episode": 1, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "advisor", "budget": 1, "agent": "advisor", "learner_type": "none", "episode": 1, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "advisor", "budget": 3, "agent": "advisor", "learner_type": "none", "episode": 1, "type": "contact", "step": 1, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "advisor", "budget": 3, "agent": "advisor", "learner_type": "none", "episode": 1, "type": "contact", "step": 2, "color": "YELLOW", "observed": "death", "cause": "role", "reward": -1}
+{"game": 10, "condition": "advisor", "budget": 3, "agent": "advisor", "learner_type": "none", "episode": 1, "type": "episode_end", "step": 2, "outcome": "death"}
+{"game": 10, "condition": "advisor", "budget": 3, "agent": "advisor", "learner_type": "none", "episode": 2, "type": "contact", "step": 1, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "advisor", "budget": 3, "agent": "advisor", "learner_type": "none", "episode": 2, "type": "contact", "step": 3, "color": "RED", "observed": "death", "cause": "role", "reward": -1}
+{"game": 10, "condition": "advisor", "budget": 3, "agent": "advisor", "learner_type": "none", "episode": 2, "type": "episode_end", "step": 3, "outcome": "death"}
+{"game": 10, "condition": "advisor", "budget": 3, "agent": "advisor", "learner_type": "none", "episode": 3, "type": "contact", "step": 3, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "advisor", "budget": 3, "agent": "advisor", "learner_type": "none", "episode": 3, "type": "episode_end", "step": 3, "outcome": "win"}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 1, "type": "contact", "step": 2, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 1, "type": "contact", "step": 3, "color": "GREEN", "observed": "death", "cause": "accident", "reward": -1}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 1, "type": "episode_end", "step": 3, "outcome": "death"}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 2, "type": "contact", "step": 1, "color": "YELLOW", "observed": "death", "cause": "role", "reward": -1}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 2, "type": "episode_end", "step": 1, "outcome": "death"}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 3, "type": "contact", "step": 2, "color": "BLUE", "observed": "death", "cause": "role", "reward": -1}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 3, "type": "episode_end", "step": 2, "outcome": "death"}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 4, "type": "contact", "step": 1, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 4, "type": "contact", "step": 4, "color": "RED", "observed": "death", "cause": "role", "reward": -1}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 4, "type": "episode_end", "step": 4, "outcome": "death"}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 5, "type": "contact", "step": 10, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 5, "type": "contact", "step": 23, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 5, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 6, "type": "contact", "step": 25, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 6, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 7, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 8, "type": "contact", "step": 7, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 8, "type": "contact", "step": 8, "color": "PURPLE", "observed": "death", "cause": "accident", "reward": -1}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 8, "type": "episode_end", "step": 8, "outcome": "death"}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 9, "type": "contact", "step": 6, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 9, "type": "contact", "step": 16, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 9, "type": "contact", "step": 46, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 9, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "advisor", "budget": 10, "agent": "advisor", "learner_type": "none", "episode": 10, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 1, "type": "contact", "step": 1, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 1, "type": "contact", "step": 3, "color": "BLUE", "observed": "death", "cause": "role", "reward": -1}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 1, "type": "episode_end", "step": 3, "outcome": "death"}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 2, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 2, "type": "contact", "step": 3, "color": "RED", "observed": "death", "cause": "role", "reward": -1}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 2, "type": "episode_end", "step": 3, "outcome": "death"}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "contact", "step": 1, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "contact", "step": 3, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 5, "type": "contact", "step": 1, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 5, "type": "episode_end", "step": 1, "outcome": "win"}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 6, "type": "contact", "step": 3, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 6, "type": "episode_end", "step": 3, "outcome": "win"}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "contact", "step": 2, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 8, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 8, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 9, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 9, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 4, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 6, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 8, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "episode_end", "step": 8, "outcome": "win"}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 1, "type": "contact", "step": 6, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 1, "type": "episode_end", "step": 6, "outcome": "win"}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 2, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 2, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 2, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "contact", "step": 3, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 5, "type": "contact", "step": 1, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 5, "type": "episode_end", "step": 1, "outcome": "win"}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 6, "type": "contact", "step": 3, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 6, "type": "episode_end", "step": 3, "outcome": "win"}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 8, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 8, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 9, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 9, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 4, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 6, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 8, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "episode_end", "step": 8, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 1, "type": "contact", "step": 6, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 1, "type": "episode_end", "step": 6, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 2, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 2, "type": "contact", "step": 3, "color": "RED", "observed": "death", "cause": "role", "reward": -1}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 2, "type": "episode_end", "step": 3, "outcome": "death"}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "contact", "step": 3, "color": "BLUE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 5, "type": "contact", "step": 1, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 5, "type": "episode_end", "step": 1, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 6, "type": "contact", "step": 3, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 6, "type": "episode_end", "step": 3, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "contact", "step": 2, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "contact", "step": 3, "color": "YELLOW", "observed": "death", "cause": "role", "reward": -1}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "episode_end", "step": 3, "outcome": "death"}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 8, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 8, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 9, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 9, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 4, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 6, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 8, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "episode_end", "step": 8, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 1, "type": "contact", "step": 6, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 1, "type": "episode_end", "step": 6, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 2, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 2, "type": "contact", "step": 3, "color": "RED", "observed": "death", "cause": "role", "reward": -1}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 2, "type": "episode_end", "step": 3, "outcome": "death"}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "contact", "step": 3, "color": "BLUE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 5, "type": "contact", "step": 1, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 5, "type": "episode_end", "step": 1, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 6, "type": "contact", "step": 3, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 6, "type": "episode_end", "step": 3, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "contact", "step": 2, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "contact", "step": 3, "color": "YELLOW", "observed": "death", "cause": "role", "reward": -1}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "episode_end", "step": 3, "outcome": "death"}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 8, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 8, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 9, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 9, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 4, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 6, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 8, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "episode_end", "step": 8, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 1, "type": "contact", "step": 5, "color": "BLUE", "observed": "death", "cause": "role", "reward": -1}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 1, "type": "episode_end", "step": 5, "outcome": "death"}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 2, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 2, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 2, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "contact", "step": 1, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "contact", "step": 3, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 5, "type": "contact", "step": 1, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 5, "type": "episode_end", "step": 1, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 6, "type": "contact", "step": 3, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 6, "type": "episode_end", "step": 3, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "contact", "step": 2, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 8, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 8, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 9, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 9, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 4, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 6, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 8, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "episode_end", "step": 8, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 1, "type": "contact", "step": 5, "color": "BLUE", "observed": "death", "cause": "role", "reward": -1}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 1, "type": "episode_end", "step": 5, "outcome": "death"}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 2, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 2, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 2, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "contact", "step": 1, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "contact", "step": 3, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 5, "type": "contact", "step": 1, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 5, "type": "episode_end", "step": 1, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 6, "type": "contact", "step": 3, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 6, "type": "episode_end", "step": 3, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "contact", "step": 2, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 8, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 8, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 9, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 9, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 4, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 6, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 8, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "episode_end", "step": 8, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 1, "type": "contact", "step": 11, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 1, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 2, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "contact", "step": 7, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "contact", "step": 10, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "contact", "step": 5, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "contact", "step": 22, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 5, "type": "contact", "step": 2, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 5, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 6, "type": "contact", "step": 16, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 6, "type": "contact", "step": 19, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 6, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "contact", "step": 6, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 8, "type": "contact", "step": 25, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 8, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 9, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 1, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 2, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 29, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 43, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 48, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 1, "type": "contact", "step": 11, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 1, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 2, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "contact", "step": 7, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "contact", "step": 10, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 3, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "contact", "step": 5, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "contact", "step": 22, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 4, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 5, "type": "contact", "step": 2, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 5, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 6, "type": "contact", "step": 16, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 6, "type": "contact", "step": 19, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 6, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "contact", "step": 6, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 7, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 8, "type": "contact", "step": 25, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 8, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 9, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 1, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 2, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 29, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 43, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "contact", "step": 48, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "calibrated", "episode": 10, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 1, "type": "contact", "step": 1, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 1, "type": "contact", "step": 3, "color": "BLUE", "observed": "death", "cause": "role", "reward": -1}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 1, "type": "episode_end", "step": 3, "outcome": "death"}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 2, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 2, "type": "contact", "step": 3, "color": "RED", "observed": "death", "cause": "role", "reward": -1}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 2, "type": "episode_end", "step": 3, "outcome": "death"}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 3, "type": "contact", "step": 1, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 3, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 3, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "contact", "step": 3, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 5, "type": "contact", "step": 1, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 5, "type": "episode_end", "step": 1, "outcome": "win"}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 6, "type": "contact", "step": 3, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 6, "type": "episode_end", "step": 3, "outcome": "win"}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 7, "type": "contact", "step": 2, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 7, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 7, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 8, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 8, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 9, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 9, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 4, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 6, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 8, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "no_advice", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "episode_end", "step": 8, "outcome": "win"}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 1, "type": "contact", "step": 6, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 1, "type": "episode_end", "step": 6, "outcome": "win"}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 2, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 2, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 2, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 3, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 3, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "contact", "step": 3, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 5, "type": "contact", "step": 1, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 5, "type": "episode_end", "step": 1, "outcome": "win"}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 6, "type": "contact", "step": 3, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 6, "type": "episode_end", "step": 3, "outcome": "win"}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 7, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 7, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 8, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 8, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 9, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 9, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 4, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 6, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 8, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "oracle", "budget": 0, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "episode_end", "step": 8, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 1, "type": "contact", "step": 6, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 1, "type": "episode_end", "step": 6, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 2, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 2, "type": "contact", "step": 3, "color": "RED", "observed": "death", "cause": "role", "reward": -1}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 2, "type": "episode_end", "step": 3, "outcome": "death"}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 3, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 3, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "contact", "step": 1, "color": "RED", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "contact", "step": 7, "color": "RED", "observed": "death", "cause": "role", "reward": -1}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "episode_end", "step": 7, "outcome": "death"}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 5, "type": "contact", "step": 1, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 5, "type": "episode_end", "step": 1, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 6, "type": "contact", "step": 3, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 6, "type": "episode_end", "step": 3, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 7, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 7, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 8, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 8, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 9, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 9, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 4, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 6, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 8, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "episode_end", "step": 8, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 1, "type": "contact", "step": 6, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 1, "type": "episode_end", "step": 6, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 2, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 2, "type": "contact", "step": 3, "color": "RED", "observed": "death", "cause": "role", "reward": -1}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 2, "type": "episode_end", "step": 3, "outcome": "death"}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 3, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 3, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "contact", "step": 3, "color": "BLUE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 5, "type": "contact", "step": 1, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 5, "type": "episode_end", "step": 1, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 6, "type": "contact", "step": 3, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 6, "type": "episode_end", "step": 3, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 7, "type": "contact", "step": 2, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 7, "type": "contact", "step": 3, "color": "YELLOW", "observed": "death", "cause": "role", "reward": -1}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 7, "type": "episode_end", "step": 3, "outcome": "death"}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 8, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 8, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 9, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 9, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 4, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 6, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 8, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 1, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "episode_end", "step": 8, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 1, "type": "contact", "step": 6, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 1, "type": "episode_end", "step": 6, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 2, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 2, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 2, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 3, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 3, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "contact", "step": 3, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 5, "type": "contact", "step": 1, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 5, "type": "episode_end", "step": 1, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 6, "type": "contact", "step": 3, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 6, "type": "episode_end", "step": 3, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 7, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 7, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 8, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 8, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 9, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 9, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 4, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 6, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 8, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "best_guess", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "episode_end", "step": 8, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 1, "type": "contact", "step": 5, "color": "BLUE", "observed": "death", "cause": "role", "reward": -1}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 1, "type": "episode_end", "step": 5, "outcome": "death"}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 2, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 2, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 2, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 3, "type": "contact", "step": 1, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 3, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 3, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "contact", "step": 3, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 5, "type": "contact", "step": 1, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 5, "type": "episode_end", "step": 1, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 6, "type": "contact", "step": 3, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 6, "type": "episode_end", "step": 3, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 7, "type": "contact", "step": 2, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 7, "type": "contact", "step": 4, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 7, "type": "episode_end", "step": 4, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 8, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 8, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 9, "type": "contact", "step": 2, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 9, "type": "episode_end", "step": 2, "outcome": "win"}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 2, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 4, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 6, "color": "GREEN", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 8, "color": "GREEN", "observed": "win", "cause": "role", "reward": 5}
+{"game": 10, "condition": "selective", "budget": 3, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "episode_end", "step": 8, "outcome": "win"}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 1, "type": "contact", "step": 11, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 1, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 2, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 3, "type": "contact", "step": 7, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 3, "type": "contact", "step": 10, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 3, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "contact", "step": 5, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "contact", "step": 22, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 5, "type": "contact", "step": 2, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 5, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 6, "type": "contact", "step": 16, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 6, "type": "contact", "step": 19, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 6, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 7, "type": "contact", "step": 6, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 7, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 8, "type": "contact", "step": 25, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 8, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 9, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 1, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 2, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 29, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 43, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 48, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "best_guess", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 1, "type": "contact", "step": 11, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 1, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 2, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 3, "type": "contact", "step": 7, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 3, "type": "contact", "step": 10, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 3, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "contact", "step": 5, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "contact", "step": 22, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 4, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 5, "type": "contact", "step": 2, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 5, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 6, "type": "contact", "step": 16, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 6, "type": "contact", "step": 19, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 6, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 7, "type": "contact", "step": 6, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 7, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 8, "type": "contact", "step": 25, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 8, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 9, "type": "episode_end", "step": 50, "outcome": "timeout"}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 1, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 2, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 29, "color": "PURPLE", "observed": "nothing", "cause": "none", "reward": 0}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 43, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "contact", "step": 48, "color": "PURPLE", "observed": "point", "cause": "role", "reward": 1}
+{"game": 10, "condition": "selective", "budget": 10, "agent": "learner", "learner_type": "literal", "episode": 10, "type": "episode_end", "step": 50, "outcome": "timeout"}

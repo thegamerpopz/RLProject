@@ -44,17 +44,17 @@ def beliefs_from_advice(advice, p_effect=0.85, p_accident=0.05, cap=0.99,
                    prior=prior or None)
 
 
-# def classify_false_claims(advice, true_roles, learner_events) -> dict:
-#     touched = {e["color"] for e in learner_events if e.get("type") == "contact"}
-#     counts = {"warning": {"touched_later": 0, "never_touched": 0},
-#               "endorsement": {"touched_later": 0, "never_touched": 0}}
-#     for s in advice:
-#         if s["role"] == true_roles[s["color"]]:
-#             continue  # true statement
-#         kind = "warning" if s["role"] == "LETHAL" else "endorsement"
-#         key = "touched_later" if s["color"] in touched else "never_touched"
-#         counts[kind][key] += 1
-#     return counts
+def classify_false_claims(advice, true_roles, learner_events) -> dict:
+    touched = {e["color"] for e in learner_events if e.get("type") == "contact"}
+    counts = {"warning": {"touched_later": 0, "never_touched": 0},
+              "endorsement": {"touched_later": 0, "never_touched": 0}}
+    for s in advice:
+        if s["role"] == true_roles[s["color"]]:
+            continue  # true statement
+        kind = "warning" if s["role"] == "LETHAL" else "endorsement"
+        key = "touched_later" if s["color"] in touched else "never_touched"
+        counts[kind][key] += 1
+    return counts
 
 
 if __name__ == "__main__":
